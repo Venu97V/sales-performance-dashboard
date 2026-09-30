@@ -1,12 +1,12 @@
-# 📊 Sales Performance Dashboard
+• Sales Performance Dashboard
 
 An interactive Sales Performance Dashboard built using Microsoft Excel to analyze sales performance and generate meaningful business insights.
 
-## 📌 Project Overview
+• Project Overview
 
 This project transforms raw sales data into an interactive dashboard using Excel data analysis and visualization techniques.
 
-## 🛠️ Tools & Skills
+• Tools & Skills
 
 - Microsoft Excel
 - PivotTables
@@ -16,7 +16,7 @@ This project transforms raw sales data into an interactive dashboard using Excel
 - Interactive Slicers
 - KPI Dashboard Design
 
-## 📈 Dashboard Features
+• Dashboard Features
 
 - Total Sales
 - Total Orders
@@ -29,19 +29,19 @@ This project transforms raw sales data into an interactive dashboard using Excel
 - Regional Sales Performance
 - Interactive filters for Month, State and City
 
-## 📷 Dashboard Preview
+• Dashboard Preview
 
 ![Sales Performance Dashboard](dashboard-preview.png)
 
-## 🎯 Objective
+• Objective
 
 To transform raw sales data into an interactive dashboard that provides clear insights into sales trends, salesperson performance, product categories and regional performance.
 
-## 📚 Key Learning
+• Key Learning
 
 Through this project, I strengthened my skills in Excel, PivotTables, PivotCharts, data analysis, dashboard design and data visualization.
 
-## 👨‍💻 Author
+• Author
 
 **Venu**
 
